@@ -1,4 +1,4 @@
-# CoffeMachineProject
+# CoffeeMachineProject
 
 Projeto realizado para o desafio Semcomp, proposto pela da Tokenlab, em que fiquei em terceiro lugar.
 
